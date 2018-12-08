@@ -438,9 +438,10 @@ amqplib@^0.5.2:
     readable-stream "1.x >=1.1.9"
     safe-buffer "^5.0.1"
 
-angularx-qrcode@^1.0.1:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/angularx-qrcode/-/angularx-qrcode-1.2.4.tgz#3dc501e4f17e0d7a9fa7abaaa016c273d7aa6010"
+angularx-qrcode@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/angularx-qrcode/-/angularx-qrcode-1.5.0.tgz#0101117bba0c12927e81e0a0291322ab54815131"
+  integrity sha512-Br7xFxuIboWgfk47ETrTIrK/djBM8G/jHSAhNF2ahj8gxtbZRaC1RjnrxHl42FXMVjU0QxvpUghtjNXHJ5CoRA==
   dependencies:
     qrcodejs2 "0.0.2"
 
